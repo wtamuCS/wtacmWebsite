@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
 @Component({
   selector: "root",
   templateUrl: "app/app.component.html",
-  styleUrls: ["app/navBar/custom.css"]
+  styleUrls: ["app/app.component.css"]
 })
 
 //Export to be used elsewhere

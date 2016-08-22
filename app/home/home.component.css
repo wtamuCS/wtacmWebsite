@@ -1,0 +1,110 @@
+/********************* Body Section *************************/
+.main-div-style {
+    display:flex;
+    background: black;
+}
+.main-article-style {
+    background: linear-gradient(#80100d 80%, black);
+    border: 2px solid black;
+    box-shadow: 0px 0px 15px black;
+    width: 70%;
+    margin: 1% 1% 1% 1%;
+    text-align: center;
+    font-family: Georgia;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.group-logo-style {
+    width: 98%;
+    height: 200px;
+    border: 2px solid black;
+    box-shadow: 0px 0px 15px black;
+    position: relative;
+    margin: 1% 1% 1% 1%;
+}
+.common-aside-style {
+    background: linear-gradient(#80100d 80%, black);
+    border: 2px solid black;
+    box-shadow: 0px 0px 15px black;
+    width: 30%;
+    margin: 1% 1% 1% 0%;
+}
+.common-seperation-style {
+    width: 90%;
+    float: left;
+}
+.common-readmore-button-style {
+    width: 5%;
+    float: left;
+}
+/********************* Body Section *************************/
+
+/********************* Common CSS Styles *************************/
+
+.section-header-style {
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0px 0px 15px black;
+    font-family: Georgia;
+}
+
+.description-heading-style {
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 0px 0px 15px black;
+    font-family: Georgia;
+}
+.description-paragraph-style {
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0px 0px 15px black;
+    font-family: Georgia;
+    margin: 1% 1% 5% 1%;
+}
+.feed-style {
+    background: linear-gradient(#0f1010 80%, black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    box-shadow: 0px 0px 15px black;
+    text-align: center;
+    height: 200px;
+    font-family: Georgia;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    margin: 1% 1% 1% 1%;
+}
+.feed-style-long{
+    background: linear-gradient(#0f1010 80%, black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    box-shadow: 0px 0px 15px black;
+    text-align: center;
+    height: inherit;
+    font-family: Georgia;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    margin: 1% 1% 1% 1%;
+}
+.blog-title-style {
+    background: linear-gradient(#0f1010 80%, black);
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    border: 2px solid black;
+    box-shadow: 0px 0px 15px black;
+    text-align: center;
+    height: 200px;
+    font-family: Georgia;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    margin: 1% 1% 1% 1%;
+}
+/********************* Common CSS Styles *************************/
